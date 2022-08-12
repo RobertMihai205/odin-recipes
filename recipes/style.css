@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(245, 245, 124);
+}
+h1, li {
+    color:red;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+h3{
+    color: grey;
+
+}
